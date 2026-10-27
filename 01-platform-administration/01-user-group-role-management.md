@@ -3,62 +3,103 @@
 
 ## Overview
 
-This lab focuses on understanding how ServiceNow manages users, groups, and roles to control access to platform resources.
+This lab demonstrates my hands-on experience managing users, groups, and roles within the ServiceNow platform as part of the ServiceNow RiseUp program.
+
+The exercise focused on user administration, group membership, role assignments, and understanding role-based access management.
 
 ## Objectives
 
-- Understand user administration in ServiceNow
-- Explore user records and their attributes
-- Understand how groups organize users
-- Learn how roles determine access permissions
-- Explore role assignments and group membership
+- Create and manage user records
+- Create and configure user groups
+- Assign users to groups
+- Assign roles to users
+- Understand role-based access management
+- Verify user permissions and group membership
 
-## Key Concepts
+## Hands-On Activities
 
-### Users
-Users are individuals who access the ServiceNow platform. Each user has a record containing information such as their name, username, email address, and assigned roles.
+### 1. User Management
 
-### Groups
-Groups organize users based on their responsibilities, departments, or functions.
+Created user records within the ServiceNow platform.
 
-Examples include:
-- Service Desk
-- IT Support
-- Hardware Support
+Activities included:
+- Navigating to User Administration
+- Creating user records
+- Entering user information
+- Saving and reviewing user records
 
-### Roles
-Roles define the permissions users receive within the ServiceNow platform.
+**Navigation:**
+All → User Administration → Users
 
-Examples include:
-- admin
-- itil
+### 2. Group Management
 
-## ServiceNow Navigation
+Created and managed groups to organize users based on their responsibilities.
 
-**Users:** All → User Administration → Users
+Activities included:
+- Creating groups
+- Reviewing group records
+- Adding users as group members
+- Verifying group membership
 
-**Groups:** All → User Administration → Groups
+**Navigation:**
+All → User Administration → Groups
 
-**Roles:** All → User Administration → Roles
+### 3. Role Management
 
-*Navigation may vary by ServiceNow version.*
+Practiced assigning roles to control user access to ServiceNow functionality.
+
+Activities included:
+- Reviewing available roles
+- Assigning roles to users
+- Exploring role-based permissions
+- Understanding how roles affect platform access
+
+**Navigation:**
+All → User Administration → Roles
+
+## Technical Concepts
+
+| Component | Purpose |
+|-----------|---------|
+| Users | Individual platform accounts |
+| Groups | Organize users and work assignments |
+| Roles | Control access to platform functionality |
+| Group Membership | Associates users with groups |
+| Role Assignment | Grants access through assigned roles |
+
+## Skills Demonstrated
+
+- ServiceNow User Administration
+- User Account Configuration
+- Group Creation and Management
+- Role Assignment
+- Access Management Fundamentals
+- Platform Navigation
 
 ## Practical Application
 
-Understanding users, groups, and roles is essential for configuring secure access, assigning work, and supporting ITSM processes.
+These skills support real-world ServiceNow administration by helping organizations:
 
-## Evidence of Hands-On Work
+- Manage employee access
+- Organize IT support teams
+- Assign responsibilities
+- Maintain appropriate access permissions
+- Support ITSM operations
 
-Screenshots and specific configuration examples will be added after reviewing completed lab exercises.
+## Evidence
+
+Screenshots of completed user, group, and role configurations will be added.
 
 ## Key Takeaways
 
-- Users represent individuals accessing ServiceNow.
-- Groups help organize users and assign responsibilities.
-- Roles control access to platform functionality.
-- Appropriate access management supports platform security.
+Through this lab, I gained practical experience configuring user accounts, managing group membership, and assigning roles in ServiceNow.
+
+I developed a better understanding of how users, groups, and roles work together to support platform administration and access management.
 
 ## Status
 
-Documentation in progress.
+Completed — Documentation and supporting screenshots in progress.
 
+## Program
+
+ServiceNow RiseUp
